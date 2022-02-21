@@ -36,6 +36,7 @@ include "Limits.thrift"
 namespace as3 com.evernote.edam.notestore
 namespace java com.evernote.edam.notestore
 namespace csharp Evernote.EDAM.NoteStore
+namespace netstd Evernote.EDAM.NoteStore
 namespace py evernote.edam.notestore
 namespace cpp evernote.edam
 namespace rb Evernote.EDAM.NoteStore

@@ -31,6 +31,7 @@
 namespace as3 com.evernote.edam.limits
 namespace java com.evernote.edam.limits
 namespace csharp Evernote.EDAM.Limits
+namespace netstd Evernote.EDAM.Limits
 namespace py evernote.edam.limits
 namespace cpp evernote.limits
 namespace rb Evernote.EDAM.Limits

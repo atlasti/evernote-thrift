@@ -35,6 +35,7 @@ include "Limits.thrift"
 namespace as3 com.evernote.edam.type
 namespace java com.evernote.edam.type
 namespace csharp Evernote.EDAM.Type
+namespace netstd Evernote.EDAM.Type
 namespace py evernote.edam.type
 namespace cpp evernote.edam
 namespace rb Evernote.EDAM.Type

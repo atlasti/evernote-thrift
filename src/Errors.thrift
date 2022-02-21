@@ -33,6 +33,7 @@ include "Types.thrift"
 namespace as3 com.evernote.edam.error
 namespace java com.evernote.edam.error
 namespace csharp Evernote.EDAM.Error
+namespace netstd Evernote.EDAM.Error
 namespace py evernote.edam.error
 namespace cpp evernote.edam
 namespace rb Evernote.EDAM.Error

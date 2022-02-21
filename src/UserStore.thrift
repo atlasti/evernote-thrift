@@ -34,6 +34,7 @@ include "Errors.thrift"
 namespace as3 com.evernote.edam.userstore
 namespace java com.evernote.edam.userstore
 namespace csharp Evernote.EDAM.UserStore
+namespace netstd Evernote.EDAM.UserStore
 namespace py evernote.edam.userstore
 namespace cpp evernote.edam
 namespace rb Evernote.EDAM.UserStore
